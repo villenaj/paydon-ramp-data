@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" className="w-full h-full opacity-50" viewBox="0 0 300 200">
+	<rect
+		width="300"
+		height="200"
+		rx="10"
+		ry="10"
+		fill="none"
+		stroke="white"
+		strokeWidth="4"
+	/>
+</svg>
